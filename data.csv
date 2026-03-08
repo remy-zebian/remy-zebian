@@ -1,0 +1,210 @@
+Users,Categories,Descriptions,Cost,Dates
+Remy,['Housing'],['Monthly rent'],850.0,2024-06-08
+Remy,['Food'],['Groceries'],180.0,2024-06-10
+Remy,['Transportation'],['Gas refill'],70.0,2024-06-12
+Remy,['Bills & Financial'],['Electricity bill'],95.0,2024-06-15
+Remy,['Health'],['Pharmacy'],40.0,2024-06-18
+Remy,['Entertainment'],['Cinema'],30.0,2024-06-20
+Remy,['Technology'],['Cloud subscription'],25.0,2024-06-22
+Remy,['Personal'],['Clothes'],90.0,2024-06-25
+Remy,['Education'],['Online course'],120.0,2024-06-27
+Remy,['Other'],['Misc expense'],50.0,2024-06-29
+Remy,['Housing'],['Monthly rent'],850.0,2024-07-08
+Remy,['Food'],['Groceries'],190.0,2024-07-10
+Remy,['Transportation'],['Taxi'],60.0,2024-07-12
+Remy,['Bills & Financial'],['Water bill'],40.0,2024-07-14
+Remy,['Health'],['Doctor visit'],110.0,2024-07-16
+Remy,['Entertainment'],['Streaming'],20.0,2024-07-18
+Remy,['Technology'],['Headphones'],95.0,2024-07-20
+Remy,['Travel'],['Weekend trip'],300.0,2024-07-22
+Remy,['Work & Business'],['Office supplies'],85.0,2024-07-25
+Remy,['Other'],['Gift'],70.0,2024-07-28
+Remy,['Housing'],['Monthly rent'],850.0,2024-08-08
+Remy,['Food'],['Groceries'],200.0,2024-08-10
+Remy,['Transportation'],['Gas refill'],75.0,2024-08-12
+Remy,['Bills & Financial'],['Internet bill'],55.0,2024-08-14
+Remy,['Health'],['Dental check'],130.0,2024-08-16
+Remy,['Entertainment'],['Concert'],180.0,2024-08-18
+Remy,['Technology'],['Keyboard'],80.0,2024-08-20
+Remy,['Education'],['Books'],100.0,2024-08-22
+Remy,['Personal'],['Shoes'],120.0,2024-08-24
+Remy,['Other'],['Donation'],60.0,2024-08-27
+Remy,['Housing'],['Monthly rent'],850.0,2024-09-08
+Remy,['Food'],['Groceries'],210.0,2024-09-10
+Remy,['Transportation'],['Bus pass'],50.0,2024-09-12
+Remy,['Bills & Financial'],['Insurance'],200.0,2024-09-14
+Remy,['Health'],['Gym membership'],180.0,2024-09-16
+Remy,['Entertainment'],['Game purchase'],70.0,2024-09-18
+Remy,['Technology'],['SSD'],140.0,2024-09-20
+Remy,['Travel'],['Hotel booking'],400.0,2024-09-22
+Remy,['Work & Business'],['Software license'],220.0,2024-09-24
+Remy,['Other'],['Repair'],90.0,2024-09-27
+Remy,['Housing'],['Monthly rent'],850.0,2024-10-08
+Remy,['Food'],['Groceries'],195.0,2024-10-10
+Remy,['Transportation'],['Gas refill'],80.0,2024-10-12
+Remy,['Bills & Financial'],['Electricity bill'],100.0,2024-10-14
+Remy,['Health'],['Medical tests'],150.0,2024-10-16
+Remy,['Entertainment'],['Movie night'],35.0,2024-10-18
+Remy,['Technology'],['Monitor'],300.0,2024-10-20
+Remy,['Education'],['Exam fee'],130.0,2024-10-22
+Remy,['Personal'],['Backpack'],95.0,2024-10-24
+Remy,['Other'],['Charity'],75.0,2024-10-27
+Remy,['Housing'],['Monthly rent'],850.0,2024-11-08
+Remy,['Food'],['Groceries'],205.0,2024-11-10
+Remy,['Transportation'],['Taxi'],65.0,2024-11-12
+Remy,['Bills & Financial'],['Water bill'],45.0,2024-11-14
+Remy,['Health'],['Doctor visit'],120.0,2024-11-16
+Remy,['Entertainment'],['Streaming'],25.0,2024-11-18
+Remy,['Technology'],['Mouse'],40.0,2024-11-20
+Remy,['Travel'],['Flight ticket'],500.0,2024-11-22
+Remy,['Work & Business'],['Office chair'],250.0,2024-11-24
+Remy,['Other'],['Misc expense'],60.0,2024-11-27
+Remy,['Housing'],['Monthly rent'],850.0,2024-12-08
+Remy,['Food'],['Groceries'],220.0,2024-12-10
+Remy,['Transportation'],['Gas refill'],85.0,2024-12-12
+Remy,['Bills & Financial'],['Internet bill'],60.0,2024-12-14
+Remy,['Health'],['Pharmacy'],50.0,2024-12-16
+Remy,['Entertainment'],['New year event'],250.0,2024-12-18
+Remy,['Technology'],['Smartwatch'],260.0,2024-12-20
+Remy,['Education'],['Course'],200.0,2024-12-22
+Remy,['Personal'],['Winter jacket'],150.0,2024-12-24
+Remy,['Other'],['Gift'],100.0,2024-12-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-01-08
+Remy,['Food'],['Groceries'],230.0,2025-01-10
+Remy,['Transportation'],['Bus pass'],55.0,2025-01-12
+Remy,['Bills & Financial'],['Electricity bill'],110.0,2025-01-14
+Remy,['Health'],['Gym membership'],180.0,2025-01-16
+Remy,['Entertainment'],['Cinema'],40.0,2025-01-18
+Remy,['Technology'],['Laptop upgrade'],900.0,2025-01-20
+Remy,['Travel'],['Weekend trip'],350.0,2025-01-22
+Remy,['Work & Business'],['Software license'],230.0,2025-01-24
+Remy,['Other'],['Repair'],95.0,2025-01-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-02-08
+Remy,['Food'],['Groceries'],240.0,2025-02-10
+Remy,['Transportation'],['Gas refill'],90.0,2025-02-12
+Remy,['Bills & Financial'],['Insurance'],210.0,2025-02-14
+Remy,['Health'],['Doctor visit'],130.0,2025-02-16
+Remy,['Entertainment'],['Concert'],190.0,2025-02-18
+Remy,['Technology'],['External SSD'],150.0,2025-02-20
+Remy,['Education'],['Books'],140.0,2025-02-22
+Remy,['Personal'],['Clothes'],160.0,2025-02-24
+Remy,['Other'],['Donation'],80.0,2025-02-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-03-08
+Remy,['Food'],['Groceries'],250.0,2025-03-10
+Remy,['Transportation'],['Taxi'],75.0,2025-03-12
+Remy,['Bills & Financial'],['Water bill'],50.0,2025-03-14
+Remy,['Health'],['Medical tests'],160.0,2025-03-16
+Remy,['Entertainment'],['Game purchase'],85.0,2025-03-18
+Remy,['Technology'],['Headphones'],110.0,2025-03-20
+Remy,['Travel'],['Hotel booking'],420.0,2025-03-22
+Remy,['Work & Business'],['Office supplies'],120.0,2025-03-24
+Remy,['Other'],['Misc expense'],70.0,2025-03-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-04-08
+Remy,['Food'],['Groceries'],260.0,2025-04-10
+Remy,['Transportation'],['Gas refill'],95.0,2025-04-12
+Remy,['Bills & Financial'],['Electricity bill'],120.0,2025-04-14
+Remy,['Health'],['Pharmacy'],60.0,2025-04-16
+Remy,['Entertainment'],['Streaming'],30.0,2025-04-18
+Remy,['Technology'],['Monitor'],320.0,2025-04-20
+Remy,['Education'],['Exam fee'],150.0,2025-04-22
+Remy,['Personal'],['Shoes'],130.0,2025-04-24
+Remy,['Other'],['Charity'],90.0,2025-04-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-05-08
+Remy,['Food'],['Groceries'],270.0,2025-05-10
+Remy,['Transportation'],['Bus pass'],60.0,2025-05-12
+Remy,['Bills & Financial'],['Internet bill'],65.0,2025-05-14
+Remy,['Health'],['Doctor visit'],140.0,2025-05-16
+Remy,['Entertainment'],['Cinema'],45.0,2025-05-18
+Remy,['Technology'],['Keyboard'],95.0,2025-05-20
+Remy,['Travel'],['Flight ticket'],520.0,2025-05-22
+Remy,['Work & Business'],['Office chair'],260.0,2025-05-24
+Remy,['Other'],['Repair'],100.0,2025-05-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-06-08
+Remy,['Food'],['Groceries'],280.0,2025-06-10
+Remy,['Transportation'],['Gas refill'],100.0,2025-06-12
+Remy,['Bills & Financial'],['Insurance'],220.0,2025-06-14
+Remy,['Health'],['Gym membership'],190.0,2025-06-16
+Remy,['Entertainment'],['Concert'],200.0,2025-06-18
+Remy,['Technology'],['Smartphone'],750.0,2025-06-20
+Remy,['Education'],['Course'],220.0,2025-06-22
+Remy,['Personal'],['Backpack'],110.0,2025-06-24
+Remy,['Other'],['Donation'],85.0,2025-06-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-07-08
+Remy,['Food'],['Groceries'],290.0,2025-07-10
+Remy,['Transportation'],['Taxi'],85.0,2025-07-12
+Remy,['Bills & Financial'],['Water bill'],55.0,2025-07-14
+Remy,['Health'],['Medical tests'],170.0,2025-07-16
+Remy,['Entertainment'],['Game purchase'],95.0,2025-07-18
+Remy,['Technology'],['Tablet'],400.0,2025-07-20
+Remy,['Travel'],['Hotel booking'],450.0,2025-07-22
+Remy,['Work & Business'],['Software license'],240.0,2025-07-24
+Remy,['Other'],['Misc expense'],75.0,2025-07-27
+Remy,['Housing'],['Monthly rent'],880.0,2025-08-08
+Remy,['Food'],['Groceries'],300.0,2025-08-10
+Remy,['Transportation'],['Gas refill'],105.0,2025-08-12
+Remy,['Bills & Financial'],['Electricity bill'],130.0,2025-08-14
+Remy,['Health'],['Doctor visit'],150.0,2025-08-16
+Remy,['Entertainment'],['Streaming'],35.0,2025-08-18
+Remy,['Technology'],['Router'],120.0,2025-08-20
+Remy,['Education'],['Books'],160.0,2025-08-22
+Remy,['Personal'],['Clothes'],170.0,2025-08-24
+Remy,['Other'],['Gift'],110.0,2025-08-27
+Remy,['Housing'],['Monthly rent'],900.0,2025-09-08
+Remy,['Food'],['Groceries'],310.0,2025-09-10
+Remy,['Transportation'],['Gas refill'],110.0,2025-09-12
+Remy,['Bills & Financial'],['Electricity bill'],135.0,2025-09-14
+Remy,['Health'],['Pharmacy'],65.0,2025-09-16
+Remy,['Entertainment'],['Cinema'],50.0,2025-09-18
+Remy,['Technology'],['Software subscription'],30.0,2025-09-20
+Remy,['Travel'],['Weekend trip'],380.0,2025-09-22
+Remy,['Work & Business'],['Office supplies'],140.0,2025-09-24
+Remy,['Other'],['Misc expense'],85.0,2025-09-27
+Remy,['Housing'],['Monthly rent'],900.0,2025-10-08
+Remy,['Food'],['Groceries'],320.0,2025-10-10
+Remy,['Transportation'],['Taxi'],95.0,2025-10-12
+Remy,['Bills & Financial'],['Water bill'],60.0,2025-10-14
+Remy,['Health'],['Doctor visit'],160.0,2025-10-16
+Remy,['Entertainment'],['Concert'],210.0,2025-10-18
+Remy,['Technology'],['SSD upgrade'],180.0,2025-10-20
+Remy,['Education'],['Exam fee'],170.0,2025-10-22
+Remy,['Personal'],['Shoes'],150.0,2025-10-24
+Remy,['Other'],['Donation'],95.0,2025-10-27
+Remy,['Housing'],['Monthly rent'],900.0,2025-11-08
+Remy,['Food'],['Groceries'],330.0,2025-11-10
+Remy,['Transportation'],['Bus pass'],65.0,2025-11-12
+Remy,['Bills & Financial'],['Insurance'],230.0,2025-11-14
+Remy,['Health'],['Medical tests'],180.0,2025-11-16
+Remy,['Entertainment'],['Streaming'],40.0,2025-11-18
+Remy,['Technology'],['Keyboard'],110.0,2025-11-20
+Remy,['Travel'],['Flight ticket'],540.0,2025-11-22
+Remy,['Work & Business'],['Software license'],260.0,2025-11-24
+Remy,['Other'],['Repair'],105.0,2025-11-27
+Remy,['Housing'],['Monthly rent'],900.0,2025-12-08
+Remy,['Food'],['Groceries'],340.0,2025-12-10
+Remy,['Transportation'],['Gas refill'],115.0,2025-12-12
+Remy,['Bills & Financial'],['Internet bill'],70.0,2025-12-14
+Remy,['Health'],['Doctor visit'],170.0,2025-12-16
+Remy,['Entertainment'],['New year event'],300.0,2025-12-18
+Remy,['Technology'],['Smartwatch'],280.0,2025-12-20
+Remy,['Education'],['Course'],240.0,2025-12-22
+Remy,['Personal'],['Winter coat'],190.0,2025-12-24
+Remy,['Other'],['Gift'],130.0,2025-12-27
+Remy,['Housing'],['Monthly rent'],920.0,2026-01-08
+Remy,['Food'],['Groceries'],350.0,2026-01-10
+Remy,['Transportation'],['Taxi'],100.0,2026-01-12
+Remy,['Bills & Financial'],['Electricity bill'],140.0,2026-01-14
+Remy,['Health'],['Gym membership'],200.0,2026-01-16
+Remy,['Entertainment'],['Cinema'],55.0,2026-01-18
+Remy,['Technology'],['Laptop accessories'],220.0,2026-01-20
+Remy,['Travel'],['Hotel booking'],480.0,2026-01-22
+Remy,['Work & Business'],['Office chair'],280.0,2026-01-24
+Remy,['Other'],['Misc expense'],95.0,2026-01-27
+Remy,['Housing'],['Monthly rent'],920.0,2026-02-08
+Remy,['Food'],['Groceries'],360.0,2026-02-10
+Remy,['Transportation'],['Gas refill'],120.0,2026-02-12
+Remy,['Bills & Financial'],['Water bill'],75.0,2026-02-14
+Remy,['Health'],['Pharmacy'],70.0,2026-02-16
+Remy,['Entertainment'],['Streaming'],45.0,2026-02-17
+Remy,['Food'],['Restaurants'],4.66,2026-03-01
+Remy,['Food'],['Fries'],1.23,2026-03-02
+

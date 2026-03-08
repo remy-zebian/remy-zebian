@@ -1,0 +1,98 @@
+{
+  "usernames": [
+    {
+      "username": "Remy",
+      "password": "$argon2id$v=19$m=65536,t=3,p=4$9xlqLI4VPjDvAMOMglN2wQ$C2/8aVnUqz5/Fl4D/Gvm1809QhnUW3yNpvo7qpCDCUI",
+      "budget": [
+        {
+          "month": "06 2024",
+          "budget": 2600
+        },
+        {
+          "month": "07 2024",
+          "budget": 2700
+        },
+        {
+          "month": "08 2024",
+          "budget": 2600
+        },
+        {
+          "month": "09 2024",
+          "budget": 2600
+        },
+        {
+          "month": "10 2024",
+          "budget": 2600
+        },
+        {
+          "month": "11 2024",
+          "budget": 2600
+        },
+        {
+          "month": "12 2024",
+          "budget": 2800
+        },
+        {
+          "month": "01 2025",
+          "budget": 2600
+        },
+        {
+          "month": "02 2025",
+          "budget": 3000
+        },
+        {
+          "month": "03 2025",
+          "budget": 3000
+        },
+        {
+          "month": "04 2025",
+          "budget": 3000
+        },
+        {
+          "month": "05 2025",
+          "budget": 3000
+        },
+        {
+          "month": "06 2025",
+          "budget": 3000
+        },
+        {
+          "month": "07 2025",
+          "budget": 3100
+        },
+        {
+          "month": "08 2025",
+          "budget": 3000
+        },
+        {
+          "month": "09 2025",
+          "budget": 3000
+        },
+        {
+          "month": "11 2025",
+          "budget": 3000
+        },
+        {
+          "month": "12 2025",
+          "budget": 3100
+        },
+        {
+          "month": "01 2026",
+          "budget": 3000
+        },
+        {
+          "month": "02 2026",
+          "budget": 3000
+        },
+        {
+          "month": "03 2026",
+          "budget": 2800
+        }
+      ]
+    },
+    {
+      "username": "person",
+      "password": "$argon2id$v=19$m=65536,t=3,p=4$eLyLfJ8GU1Hl3c+fezkfsA$0GZ4M792MvLpYxyxanxBeQXkxflms5tcqXRXdFmhyME"
+    }
+  ]
+}
