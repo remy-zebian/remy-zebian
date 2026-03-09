@@ -1,7 +1,7 @@
 {
   "usernames": [
     {
-      "username": "Remy",
+      "username": "User1",
       "password": "$argon2id$v=19$m=65536,t=3,p=4$9xlqLI4VPjDvAMOMglN2wQ$C2/8aVnUqz5/Fl4D/Gvm1809QhnUW3yNpvo7qpCDCUI",
       "budget": [
         {
@@ -91,8 +91,9 @@
       ]
     },
     {
-      "username": "person",
+      "username": "User2",
       "password": "$argon2id$v=19$m=65536,t=3,p=4$eLyLfJ8GU1Hl3c+fezkfsA$0GZ4M792MvLpYxyxanxBeQXkxflms5tcqXRXdFmhyME"
     }
   ]
 }
+
